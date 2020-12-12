@@ -1,0 +1,2 @@
+# infiniboard
+Infinitely scalable whtiteboard
